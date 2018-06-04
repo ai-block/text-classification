@@ -1,10 +1,10 @@
 {
-    "CONSUMER_KEY": "gvEvp5DLqmzj27Di7MfmSp8uu",
-    "CONSUMER_SECRET": "OCACENyfrymXQfoWH9BxJyqorAQ9mKOdF0vanhZpYmEQhRPNRZ",
-    "ACCESS_TOKEN": "900378365772783616-Rgwe50GzUDMdmUGNQJdFIb2NcO2yvEN",
-    "ACCESS_TOKEN_SECRET": "vwdzbflAy7J4ePRWJbFUj4XoEmVld91JQHnWNNx9eQAha",
+    "CONSUMER_KEY": "xxxx",
+    "CONSUMER_SECRET": "xxxx",
+    "ACCESS_TOKEN": "xxxx",
+    "ACCESS_TOKEN_SECRET": "xxxx",
     "PARAMS": {
-      "screen_name":"IHayato",
+      "screen_name":"<Twitter Account Name>",
           "exclude_replies": "True",
           "include_rts":"False",
           "count":10},
